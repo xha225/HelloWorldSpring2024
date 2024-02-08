@@ -4,3 +4,4 @@ void main() {
 }
 // this is not the end of the code!
 // fixes #6
+// fix #6
