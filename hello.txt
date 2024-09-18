@@ -3,4 +3,3 @@ void main() {
     print “Hello World”;
 }
 // this is not the end of the code!
-// Close issue #12
